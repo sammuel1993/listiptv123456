@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/afd18d0e5491ff85452f9bf7b74d8aa8.png" group-title="Canais | Notícias",Euronews Português HD
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="Canais | Abertos", Globo SP HD
+http://191.37.250.169:8801/live/NSC/720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/3e58eed5ec44cc7c2563759de309af32.png" group-title="Canais | Abertos",SBT HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/3e58eed5ec44cc7c2563759de309af32.png" group-title="Canais | Abertos",SBT HD Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="Canais | Abertos",Record  MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="Canais | Abertos",Record MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="Canais | Abertos",Record  NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="Canais | Abertos",Record
+http://castlempire.site:8080/UserTest2Brasil_00d/F82gA72YLEFn/189965
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",REDE TV SD TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",REDE TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/e6da8e51b4510f9c253957d20dfd3090.png" group-title="Canais | Abertos",TV Cultura HD CATV
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w479243543.m3u8
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/5bffb65d5020a6dd32e38e9b22f5fd1a.png" group-title="Canais | Abertos",TV Camara HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/b5057bd2da8314fb96bccc4c93e7d318.png" group-title="Canais | Abertos",Terra Viva HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/chunklist_w1040118666.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/52ccac233874649d2d0c0a5d275fbed4.png" group-title="Canais | Religiosos",TV Novo Tempo HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/a200a1f48471a7bb856e6e991ffa044b.png" group-title="Canais | Religiosos",TV Gideoes HD
+https://streaming01.zas.media/gideoes/programacao/chunklist_w388757523.m3u8
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/2d44cf31bd0dc861392f5ce24cd82578.png" group-title="Canais | Religiosos",Rede Gospel HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/csSORZMSiHHm4NiKv2iJ0ROTysmF2GhJVTtnnDKbiYD3KbdKGZEG_d2fVDZZAB87muA=w240-h480-rw" group-title="Canais | Religiosos", ADORADOR GOSPEL SD
+https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w509816036.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GLpDFHMrvGlQGc8SMdEiQtvZz9cnRdZEFmbU_5Bs3qYptNa_IW_5tnvyHodyO-rfADM=w240-h480-rw" group-title="Canais | Religiosos", tvgermana
+https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1129428753.m3u8
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/910b62c7be47ba556c47897c2a8a1659.png" group-title="Canais | Religiosos",Boas Novas HD
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ojNNJUZbyY0YgcGGh3yq3_DwyJ9vJO-QkjABVy3vzGTCl7-ovQhVFsm-HlsrUBP6NiPr=w240-h480-rw" group-title="Canais | Religiosos",Igreja Evangélica Cristo Vive Ao Vivo   
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w167787517.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/33561003f44d374c719506bef4faeba4.png" group-title="Canais | Filmes e Séries",SONY HD
+http://199.127.60.83:16063/sony
+
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/33561003f44d374c719506bef4faeba4.png" group-title="Canais | Filmes e Séries",SONY HD
+http://45.58.126.146:14303
+
+
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="Canais | Filmes e Séries",Space HD
+http://195.181.163.144:14730/space
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="Canais | Filmes e Séries",Space HD
+http://195.181.163.144:14730
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QqJQIVOOHJEETM1rr-sFsNIOebUAFutp-E0OQ7sa0-ZiVmVE4bmhkbrPsNgdxG6erw=w240-h480-rw" group-title="Canais | Esportes", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IMDSFULL
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/a092c48e9fa9ecf324b2d3a23d61d891.png" group-title="Canais | Esportes",Combate HD
+http://209.222.97.92:16493/
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/a092c48e9fa9ecf324b2d3a23d61d891.png" group-title="Canais | Esportes",Combate HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35976
+#EXTINF:-1 tvg-logo="http://4p.vc:80/images/c90b5dd3170f0939145a1e6e99794c6e.png" group-title="Canais | Esportes",All Sports HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1296323219.m3u8
+
+
+
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Pluto TV filmes ",Pluto TV Cine Clássicos (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Pluto TV filmes ",Pluto TV Cine Comédia (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Pluto TV filmes ",Pluto TV Cine Drama (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Pluto TV filmes ",Pluto TV Cine Família (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Pluto TV filmes ",Pluto TV Cine Romance (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Pluto TV filmes ",Pluto TV Cine Sucessos (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCineTerror.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Pluto TV filmes ",Pluto TV Cine Terror (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png" group-title="Pluto TV filmes ",Pluto TV Filmes Ação (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+
+
+
+
+
